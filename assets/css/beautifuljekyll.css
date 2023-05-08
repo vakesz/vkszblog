@@ -149,6 +149,10 @@ img {
   font-size: 1.125rem;
 }
 
+.navbar-brand {
+  visibility: hidden;
+}
+
 .navbar-custom .navbar-brand-logo {
   -webkit-transition: padding .5s ease-in-out;
   -moz-transition: padding .5s ease-in-out;
