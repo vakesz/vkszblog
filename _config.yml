@@ -22,9 +22,9 @@ author: vakesz
 navbar-links:
   Posts: "index"
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+#  Resources:
+#    - Beautiful Jekyll: "https://beautifuljekyll.com"
+#    - Learn markdown: "https://www.markdowntutorial.com/"
 
 ################
 # --- Logo --- #
@@ -32,14 +32,14 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+#avatar: "/assets/img/avatar-icon.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: false
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: /path/to/image
+title-img: "/assets/img/avatar-icon.png"
 
 
 #####################################
@@ -49,13 +49,12 @@ round-avatar: false
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "hello@vksz.io"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
   #facebook: yourname
   github: vakesz
   twitter: vakeszqe
+  email: "hello@vksz.io"
   #patreon: yourname
-  youtube: channel/UC_00DyOaJLQIBv9WL8Wn41Q
+#  youtube: channel/UC_00DyOaJLQIBv9WL8Wn41Q
 #  medium: yourname
 #  reddit: yourname
   linkedin: gabor-pinkova
@@ -63,9 +62,9 @@ social-network-links:
 #  stackoverflow: "yourname"
 #  snapchat: yourname
 #  instagram: yourname
-  spotify: vakesz
+#  spotify: vakesz
 #  telephone: yourname
-  steam: vakesz
+#  steam: vakesz
   twitch: vakesz
 #  yelp: yourname
 #  telegram: yourname
@@ -97,7 +96,7 @@ share-links-active:
 url-pretty: "vksz.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
-excerpt_length: 50
+excerpt_length: 100
 
 # Whether or not to show an excerpt for every blog post in the feed page
 feed_show_excerpt: true
@@ -117,7 +116,7 @@ edit_page_button: true
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "vakesz,vksz,blog"
 
 ######################################
 # --- Colours / background image --- #
@@ -252,7 +251,7 @@ date_format: "%B %-d, %Y"
 timezone: "Europe/Budapest"
 markdown: kramdown
 highlighter: rouge
-permalink: /:year-:month-:day-:title/
+permalink: /:year-:month-:title/
 paginate: 5
 
 kramdown:
