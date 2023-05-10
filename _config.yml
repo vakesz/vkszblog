@@ -126,7 +126,7 @@ keywords: "vakesz,vksz,blog"
 
 navbar-col: "#2E2E2E"
 navbar-text-col: "#FFF"
-navbar-border-col: "#000"
+navbar-border-col: "#2E2E2E"
 page-col: "#323232"
 text-col: "#FFF"
 link-col: "#FFCC00"
