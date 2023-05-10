@@ -3,6 +3,7 @@ layout: post
 title:  "Who's vakesz?"
 date:   2022-12-10 16:11:30 +0200
 categories: vakesz vksz who
+cover-img: "/assets/img/me_cover.webp"
 ---
 
 As you might already know my name and some small things from the About me page, I’m Gabor Pinkova, currently working at Continental Automotive. But it hasn’t been that easy for me to get to where I am. I was lucky that when I was a child I had the option to have some shitty computers without any internet connection. Some of them I still have saved up, which you can see in the below pictures. About the name “vakesz”, I don’t really remember mostly why it stuck to me, or where exactly it came from but I remember I was called “vaksi” a few times when I was small and maybe I created it due to that back then, cause this one sounded way cooler.
