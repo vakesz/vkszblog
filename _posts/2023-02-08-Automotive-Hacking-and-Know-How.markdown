@@ -20,7 +20,7 @@ Let’s start with the protocols themselves.
 >There are many other protocols that are being used in the Automotive area, but these are the ones that I’m mostly familiar with and seen being used. Sure, there’s LIN, and CAN-FD as well, but I’d like to just provide a starting point here for you to decide yourself if you’d like to dig deeper into it.
 
 <p align="center">
-<img src="../assets/img/network.webp"><br>
+<img src="/assets/img/network.webp"><br>
 <font size="1px">Automotive Networks and their connections.</font>
 </p>
 

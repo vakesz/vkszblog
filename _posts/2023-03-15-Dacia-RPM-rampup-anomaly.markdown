@@ -13,7 +13,7 @@ Since I don’t have a complete understanding of how a car altogether works comp
 > He’s the first owner of the car and it has been malfunctioning ever since it was taken out of the shop. Also the car received many firmware updates, for each related ECU but still didn’t resolve this issue.
 
 <p align="center">
-<img src="../assets/img/Prague_2017_Dacia_Dokker_1.webp"><br>
+<img src="/assets/img/Prague_2017_Dacia_Dokker_1.webp"><br>
 <font size="1px">Dacia Dokker 2017 1.6</font>
 </p>
 
@@ -22,7 +22,7 @@ Last weekend, I choose to stay at my dad’s place for the weekend, had some bre
 Then I noticed that there was an ELM327 module in the car, so I got curious and connected it to the car’s OBD connector and started downloading some apps for it on my iPhone. After trying for at least an hour I concluded that it’s not supported on iOS for some reason to use these modules and only Wifi ones work, I grabbed some old Samsung tablet that I had around and downloaded the first app that came in front of me in the Google Play Store and voila! It worked right away. OK, so then the fun begins. 🙂
 
 <p align="center">
-<img src="../assets/img/elm327.webp"><br>
+<img src="/assets/img/elm327.webp"><br>
 <font size="1px">ELM327 BT LE</font>
 </p>
 
