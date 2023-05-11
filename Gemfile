@@ -34,3 +34,6 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 gem "webrick", "~> 1.8"
 gem "beautiful-jekyll-theme", "5.0.0"
+
+gem 'jekyll-email-protect'
+
