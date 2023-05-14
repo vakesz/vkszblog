@@ -6,6 +6,7 @@ round-avatar: true
 #title-img: "/assets/img/avatar-icon.png"
 date_format: "%B %-d, %Y"
 rss-description: This website is a virtual proof that I'm awesome
+absolute_url: vksz.io
 
 ###############################################
 # --- List of links in the navigation bar --- #
