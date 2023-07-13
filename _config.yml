@@ -1,4 +1,5 @@
 # Name of website
+url: "https://vksz.io" # the base hostname & protocol for your site
 title: vksz.io
 author: vakesz
 avatar: "/assets/img/avatar.png"
@@ -180,3 +181,4 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-email-protect
+  - jekyll-sitemap
