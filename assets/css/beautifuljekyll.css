@@ -54,7 +54,7 @@ a:focus {
   color: {{ site.hover-col | default: "#0085A1" }};
 }
 blockquote {
-  color: #808080;
+  color: #F3F3F3;
   font-style: italic;
 }
 blockquote p:first-child {
@@ -283,7 +283,7 @@ img {
   }
 
   .navbar-custom .nav-item.dropdown .dropdown-menu .dropdown-item:first-child {
-    border-top-width: 0px;
+    border-top-width: 1px;
   }
 }
 
@@ -381,7 +381,7 @@ img {
 
 footer {
   padding: 1.875rem 0;
-  border-top: 0px #EAEAEA solid;
+  border-top: 1px #EAEAEA solid;
   margin-top: 3.125rem;
   font-size: 0.875rem;
   background-color: {{ site.footer-col | default: "#EAEAEA" }};
@@ -485,7 +485,7 @@ footer .footer-custom-content {
 }
 .post-preview .post-meta,
 .post-heading .post-meta {
-  color: #808080;
+  color: #F2F2F2;
   font-size: 1.125rem;
   font-style: italic;
   margin: 0 0 0.625rem;
@@ -810,7 +810,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   font-weight: 800;
   letter-spacing: 1px;
   padding: 0.625rem 0.3125rem;
-  background-color: #585858;
+  background-color: #FFF;
   border-radius: 0;
   color: {{ site.text-col | default: "#404040" }};
 }
