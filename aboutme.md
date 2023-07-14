@@ -12,4 +12,4 @@ I’m Gabor "vakesz" Pinkova. Currently, I work at Continental Automotive as a S
 
 ### My story
 
-To be honest, I'm having some trouble remembering it right now, so why don't you just check [this out](../2022-12/Who's-vakesz/) and it will answer **all** your questions.
+To be honest, I'm having some trouble remembering it right now, so why don't you just check [this out](../2022-12/Whos-vakesz/) and it will answer **all** your questions.
