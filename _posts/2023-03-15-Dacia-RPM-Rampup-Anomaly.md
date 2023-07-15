@@ -5,6 +5,7 @@ date:   2023-03-15 18:11:30 +0200
 categories: vakesz vksz who dacia anomaly
 share-title: "Dacia RPM Rampup Anomaly | vksz.io"
 cover-img: "/assets/img/dokker_cover.webp"
+css: "/assets/css/video-embed.css"
 ---
 
 I had a discussion with my father a few weeks ago during the family day of Continental, and he has a car namely Dacia which has issues with holding a stable rpm during driving. (We do not live together for quite a while.) Since there were multiple presentations held about how each of the systems works in the car this problem just came up.
@@ -29,9 +30,7 @@ Then I noticed that there was an ELM327 module in the car, so I got curious and 
 
 I tried to hold the pedal myself in a stable position while looking at the OBD outputs, but couldn’t focus on it, although it was already weird for me that the car just revs up, while just holding at around 15-20%. Then I asked my father to try to hold the pedal in a fixed position so I could make a video about the diagnostic output.
 
-<div class="iframe-container">
-<iframe class="iframe-video" src="https://www.youtube.com/embed/8EJ7jPH_4eE" allowfullscreen></iframe>
-</div>
+{% include youtubePlayer.html id="8EJ7jPH_4eE" %}
 
 We currently only have a few suspicions about it, but it’s highly likely that maybe there’s a very small vacuum leak, which is not setting any DTC on the ECUs and while the car draws in more air due to the leak the RPM ramps up. (More air = more fuel) It can also be observed that the car has a bit higher than reasonable gasoline consumption.
 
