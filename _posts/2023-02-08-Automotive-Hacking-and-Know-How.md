@@ -3,6 +3,7 @@ layout: post
 title:  "Automotive Hacking and Know-How"
 date:   2023-02-08 12:11:30 +0200
 categories: vakesz vksz who automotive hacking hack
+share-title: "Automotive Hacking and Know-How | vksz.io"
 cover-img: "/assets/img/hacking_cover.webp"
 ---
 

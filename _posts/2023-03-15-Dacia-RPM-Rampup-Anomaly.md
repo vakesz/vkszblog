@@ -3,6 +3,7 @@ layout: post
 title:  "Dacia RPM Rampup Anomaly"
 date:   2023-03-15 18:11:30 +0200
 categories: vakesz vksz who dacia anomaly
+share-title: "Dacia RPM Rampup Anomaly | vksz.io"
 cover-img: "/assets/img/dokker_cover.webp"
 ---
 

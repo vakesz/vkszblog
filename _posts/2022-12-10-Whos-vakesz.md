@@ -3,6 +3,7 @@ layout: post
 title:  "Who's vakesz?"
 date:   2022-12-10 16:11:30 +0200
 categories: vakesz vksz who
+share-title: "Who's vakesz? | vksz.io"
 cover-img: "/assets/img/me_cover.webp"
 ---
 
