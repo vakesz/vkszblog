@@ -15,7 +15,7 @@ Currently I work at <strong>Continental Automotive Hungary</strong> as a Sr. Sof
 
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
-I'm mostly a self-taugh developer, as from the times I was a little child I was always excited about it, and looked into things how they work. I did start University studies after middle school, but due to never having a proper teacher previously I didn't feel like I was learning anything there, so I left it.
+I'm mostly a <strong>self-taught</strong> developer, as from the times I was a little child I was always excited about it, and looked into things how they work. I did start University studies after middle school, but due to never having a proper teacher previously I didn't feel like I was learning anything there, so I left it.
 </p>
 
 <p class="about-text">
@@ -25,7 +25,7 @@ I love tinkering around with my homelab stuff, or just making smaller projects f
 
 <p class="about-text">
 <span class="fa fa-heart about-icon"></span>
-I love MTB riding, making videos and photos about rides, and also I tend to write a few small poems in my free time.
+I love <strong><a href="https://www.pinkbike.com/u/vakesz/">MTB riding</a></strong>, making videos and photos about rides, and also I tend to write a few small poems in my free time.
 and meeting new people :) 
 </p>
 
