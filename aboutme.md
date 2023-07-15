@@ -34,7 +34,7 @@ and meeting new people :)
 I grew up in Veszprem, Hungary and mostly attended the local schools around and never really been outside of the country for extended periods of time. Currently I live in Hajmasker, Hungary which I immensely enjoy cause it’s hushed around here.
 </p>
 
-<p>If you'd like to know more about me in a bit more detail,, why don't you just check <a href="../2022-12/Whos-vakesz/">this out</a> and it will probably answer your questions.</p>
+<p>If you'd like to know more about me in a bit more detail, why don't you just check <a href="../2022-12/Whos-vakesz/">this out</a> and it will probably answer your questions.</p>
 
 </div>
 
