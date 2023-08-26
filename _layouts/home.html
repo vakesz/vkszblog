@@ -53,8 +53,8 @@ layout: page
       
       {% if site.post_header_img == true %}
       <div>
-         <a href="{{ post.url | absolute_url }}" aria-label="Thumbnail">
-            <img src="{{ thumbnail | absolute_url }}" style="width: 1000px; height: 150px; object-fit: cover; object-position: 0 50%;border-radius: 10px;" alt="Post thumbnail">
+         <a href="{{ post.url | absolute_url }}" aria-label="Header Image">
+            <img src="{{ thumbnail | absolute_url }}" class="header-image" alt="Header Image">
          </a>
       </div>
       {% endif %}
