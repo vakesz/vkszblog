@@ -48,6 +48,7 @@ share-links-active:
   vk: false
 
 url-pretty: "vksz.io"
+post_header_img: true
 excerpt_length: 50
 feed_show_excerpt: true
 feed_show_tags: true
