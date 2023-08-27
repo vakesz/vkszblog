@@ -1122,3 +1122,12 @@ pre {
 .post-image > a img {
 	border-radius: 25%;
 }
+
+.header-image {
+   width: 1000px; 
+   height: 150px;   
+   object-fit: cover; 
+   object-position: 0 50%;
+   border-radius: 10px;
+   margin-bottom: 5px;
+}
