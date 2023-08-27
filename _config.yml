@@ -49,7 +49,7 @@ share-links-active:
 
 url-pretty: "vksz.io"
 post_header_img: true
-excerpt_length: 50
+excerpt_length: 75
 feed_show_excerpt: true
 feed_show_tags: true
 post_search: true
