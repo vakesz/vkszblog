@@ -50,8 +50,16 @@ layout: page
         {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
         Posted on {{ post.date | date: date_format }}
       </p>
+      
+      {% if site.post_header_img == true %}
+      <div>
+         <a href="{{ post.url | absolute_url }}" aria-label="Header Image">
+            <img src="{{ thumbnail | absolute_url }}" class="header-image" alt="Header Image">
+         </a>
+      </div>
+      {% endif %}
 
-      {% if thumbnail != "" %}
+      {% if thumbnail != "" and site.post_header_img == false %}
       <div class="post-image post-image-small">
         <a href="{{ post.url | absolute_url }}" aria-label="Thumbnail">
           <img src="{{ thumbnail | absolute_url }}" alt="Post thumbnail">
@@ -60,7 +68,7 @@ layout: page
       {% endif %}
 
       {% unless site.feed_show_excerpt == false %}
-      {% if thumbnail != "" %}
+      {% if thumbnail != "" and site.post_header_img == false %}
       <div class="post-image post-image-short">
         <a href="{{ post.url | absolute_url }}" aria-label="Thumbnail">
           <img src="{{ thumbnail | absolute_url }}" alt="Post thumbnail">
