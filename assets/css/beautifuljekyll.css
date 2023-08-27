@@ -1129,4 +1129,5 @@ pre {
    object-fit: cover; 
    object-position: 0 50%;
    border-radius: 10px;
+   margin-bottom: 5px;
 }
